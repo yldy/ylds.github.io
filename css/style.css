@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+a{
+    text-decoration:none 
+    padding: 10px 80px;
+    background-color: orange
+}
+
+a:hover{
+    color: azure
+    background-color: darkkhaki
+}
+
+.header-title {
+    color: orangered
+    font-family: 'ostrich', cursive;
+    font-weight:400;
+    font-size:72px;
+    letter-spacing: 3px;
+    text-align: center;
+    text-shadow: 0 10px 20px  ;
+}
+

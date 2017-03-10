@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Ostrich';
+    src: url('Ostrich-webfont.eot'); /* IE9 兼容模式 */
+    src: local('LindenHill'), /* 指定使用者電腦裡的字體名稱 */
+    url('ostrich-sans.eot#iefix') format('embedded-opentype'), /* IE6 - IE8 */
+    url('ostrich-sans.woff') format('woff'), /* 現代瀏覽器 */
+    url('ostrich-sans.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('ostrich-sans-regular.svg#ostrich') format('svg');/* iOS */
+    font-weight: 400;
+    font-style: normal;
+}
